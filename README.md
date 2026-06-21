@@ -1,10 +1,14 @@
-# CT519-First-Web-using-NginX
-โครงสร้างโปรเจค (Project Structure)
+##  CT519-First-Web-using-NginX
+
+## โครงสร้างโปรเจค (Project Structure)
+
+```text
 CT519-First-Web-using-NginX
 ├── Dockerfile
 ├── index.html
 ├── Panyapat-Sungrung.png
 └── README.md
+```
 รายละเอียดไฟล์
 Dockerfile : กำหนดขั้นตอนการสร้าง Docker Image
 index.html : หน้าเว็บหลัก
